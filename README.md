@@ -2,6 +2,8 @@
 
 A command-line chatbot that answers questions about my lecture notes.
 It reads my `.txt` and `.md` notes and sends them, along with my question, to an AI model on Nebius Token Factory.
+Very helpful for lile reading especially for my language classes.
+
 
 ## Setup
 
